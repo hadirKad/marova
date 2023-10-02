@@ -1,0 +1,4 @@
+#Sun Aug 21 11:30:57 WAT 2022
+base.0=C\:\\Users\\toosiba\\Desktop\\marova\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
