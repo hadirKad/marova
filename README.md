@@ -19,7 +19,7 @@ flutter build apk
 ```
 ### 🔭 ScreenShots
 -----
-<img src="lib/assets/images/screen1.jpg" width="200">  <img src="lib/assets/images/screen2.jpg" width="200">  <img src="lib/assets/images/screen3.jpg" width="200">
+<img src="assets/images/screen1.jpg" width="200">  <img src="assets/images/screen2.jpg" width="200">  <img src="assets/images/screen3.jpg" width="200">
 
 
 
